@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=sachinsaini4278)](https://github.com/sachinsaini4278)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinsaini4278&layout=compact)](https://github.com/sachinsaini4278)
+
+<a href="https://www.linkedin.com/in/sachin-saini-11a222130/"><img align="left" src="https://raw.githubusercontent.com/sachinsaini4278/sachinsaini4278/main/images/linkedin.svg" alt="Sachin | LinkedIn" width="21px"/></a>
